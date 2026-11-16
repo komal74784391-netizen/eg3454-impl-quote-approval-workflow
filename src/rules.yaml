@@ -1,0 +1,4 @@
+defaults:
+  retry_attempts: 3
+  batch_size: 250
+  audit_trail: true
